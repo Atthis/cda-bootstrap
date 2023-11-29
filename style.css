@@ -1,0 +1,8 @@
+li img {
+  height: 24px;
+  aspect-ratio: 1/1;
+}
+
+article img {
+  transform: translateX(-50%);
+}
